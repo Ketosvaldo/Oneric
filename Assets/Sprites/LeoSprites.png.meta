@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 995f71d972c3d6b4f886a0ed297df5f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeoWalk_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1833
+        width: 237
+        height: 318
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd870b4e02fc89849ac7d01a73d712c8
+      internalID: -923572533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoWalk_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1838
+        width: 195
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427c471c4f40034f9ec01eb652f9b04
+      internalID: 748488122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoWalk_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1835
+        width: 166
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cfadb708e466a4eae1017eafd16ebf
+      internalID: -778625115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoWalk_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1830
+        width: 178
+        height: 323
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51885e5e923db43a7759c927465bad
+      internalID: -1053292748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1827
+        width: 192
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d62fc992ce3d245a93e181e6d0dc4c
+      internalID: 1913110633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1827
+        width: 192
+        height: 343
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36c9dc950584514daa3f39f1b00ca12
+      internalID: -1039666874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1836
+        width: 178
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb44dcf96dc2ce44bed3a1a23e5a90f
+      internalID: 1322215673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoJump_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1444
+        width: 252
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a62dac9289e746b794842a5ce0d84
+      internalID: 1909166189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoJump_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1450
+        width: 258
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfc0a13d4135741a9d1b1ebc27fc2d
+      internalID: -566656728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoJump_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1471
+        width: 235
+        height: 303
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55d087d004afe49ab381ff7c984ee1
+      internalID: -610330555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoHit
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1452
+        width: 264
+        height: 303
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ee15c31340ec499201778c2988dce
+      internalID: -311509706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoAttack_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 917
+        width: 211
+        height: 350
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d54034254f83de489dc9de9de854a18
+      internalID: -1092065902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoAttack_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 916
+        width: 274
+        height: 337
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f96a813e837c43b3c9683b2a145ad
+      internalID: 2127157161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoAttack_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 925
+        width: 248
+        height: 323
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b40500aafe92544931ac3b8c483890
+      internalID: -1570661413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 918
+        width: 371
+        height: 326
+      alignment: 9
+      pivot: {x: 0.61, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd8e6f12760e94a9b3a24c9d718b95
+      internalID: 1550532431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 460
+        width: 205
+        height: 350
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e804b4ca0718f3428eee25527c7eea5
+      internalID: 1002495660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 463
+        width: 216
+        height: 344
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c650ca721d775bf43aa66fbb797875af
+      internalID: 1413045365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 478
+        width: 409
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa77ed1e99ab0943ac40ec4968e0e66
+      internalID: 819331478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_3
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 508
+        width: 288
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e42182ad356d448966d1f27180ea9
+      internalID: -1884208342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_4
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 486
+        width: 367
+        height: 342
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbf688b4041704a8585fbe6f2bd313
+      internalID: -815028958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 398
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef82796391006b4b8564c0851faea39
+      internalID: -321323221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoRoll_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 76
+        width: 236
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72df2afb59203a4baf4861ff9170085
+      internalID: 1260926936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeoIdle
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 101
+        width: 146
+        height: 356
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9ac427e4bed943af14d9ef5a68189
+      internalID: -790958294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LeoWalk_2: -778625115
+      LeoRoll_0: 1002495660
+      LeoRoll_5: -321323221
+      LeoRoll_1: 1413045365
+      LeoSprites_19: 2010948947
+      LeoWalk_1: 748488122
+      LeoWalk_5: -1039666874
+      LeoAttack_2: -1570661413
+      LeoJump_2: -610330555
+      LeoAttack_1: 2127157161
+      LeoWalk_4: 1913110633
+      LeoSprites_28: 226016937
+      LeoIdle: 684118673
+      LeoJump_0: 1909166189
+      LeoSprites_13: -1974145940
+      LeoAttack_3: 1550532431
+      LeoAttack_0: -1092065902
+      LeoSprites_20: -1602298701
+      LeoRoll_6: 1260926936
+      LeoSprites_31: -498684852
+      LeoSprites_16: -1311974993
+      LeoRoll_3: -1884208342
+      LeoWalk_3: -1053292748
+      LeoJump_1: -566656728
+      LeoWalk_0: -923572533
+      LeoHit: -311509706
+      LeoRoll_4: -815028958
+      LeoSprites_25: 228252447
+      LeoSprites_18: 119301870
+      LeoSprites_21: -1999065980
+      LeoWalk_6: 1322215673
+      LeoRoll_2: 819331478
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
